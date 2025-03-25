@@ -1,31 +1,31 @@
 {
   "characters": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
-      "votes": 0
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR5NHg0NHA4emQ0bndjaGlvaGI2ZXN6NGQ0YzNja3MzdDk2MWJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmE2D8hu3K6Uo/giphy.gifhttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR5NHg0NHA4emQ0bndjaGlvaGI2ZXN6NGQ0YzNja3MzdDk2MWJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmE2D8hu3K6Uo/giphy.gif",
+      "votes": 10
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mx. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG8xcDdwbWJ6bjF2cTU1andqZmpibXh5aGwzOTluOWdqZHZpNnJzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUMBjT9u5LmV2/giphy.gif",
       "votes": 0
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ms. Zebra",
       "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
-      "votes": 0
+      "votes": 20
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dr. Lion",
       "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
-      "votes": 0
+      "votes": 5
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
